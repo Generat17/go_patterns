@@ -47,5 +47,3 @@ $ go get github.com/alexandergrom/go-patterns
 * [Стратегия (Strategy)](Behavioral/Strategy)
 * [Шаблонный метод (Template Method)](Behavioral/TemplateMethod)
 * [Посетитель (Visitor)](Behavioral/Visitor)
-
-## -~- THE END -~-
