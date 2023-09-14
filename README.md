@@ -1,5 +1,7 @@
 ## Паттерны
 
+###[Шпаргалка](https://habr.com/ru/articles/210288/)
+
 ### [Порождающие (Creational)](Creational)
 
 * [Абстрактная фабрика (Abstract Factory)](Creational/AbstractFactory)
