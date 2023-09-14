@@ -1,6 +1,6 @@
 ## Паттерны
 
-###[Шпаргалка](https://habr.com/ru/articles/210288/)
+### [Шпаргалка](https://habr.com/ru/articles/210288/)
 
 ### [Порождающие (Creational)](Creational)
 
